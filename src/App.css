@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.show > .dropdown-menu {
+  display: block;
+  position: absolute;
+}
+
+.test {
+  background-color: blue;
+}
